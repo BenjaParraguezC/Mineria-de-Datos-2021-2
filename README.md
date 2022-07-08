@@ -5,4 +5,4 @@ Lenguaje utilizado: Python
 
 Proyecto 1: Analizar el valor de las casas segun las caracteristicas de ellas, utilizando algoritmos no supervisados.
 
-Proeycto 2: predecir si un meteorito es peligroso o no, mediante metodos supervisados.
+Proyecto 2: predecir si un meteorito es peligroso o no, mediante metodos supervisados.
